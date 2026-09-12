@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://btyurvua3mo7v"
-path="res://.godot/imported/tile_0061.png-13cab76e4134251c537596f724908773.ctex"
+uid="uid://vu1ei244p581"
+path="res://.godot/imported/tile_0060.png-c440b99fe866c694b343650106a2d59d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprat/tile_0061.png"
-dest_files=["res://.godot/imported/tile_0061.png-13cab76e4134251c537596f724908773.ctex"]
+source_file="res://sprites/tile_0060.png"
+dest_files=["res://.godot/imported/tile_0060.png-c440b99fe866c694b343650106a2d59d.ctex"]
 
 [params]
 
@@ -37,4 +37,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0
