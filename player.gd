@@ -1,1 +1,43 @@
 extends CharacterBody2D
+
+onready var ray =RayCast2D
+
+var inputs = {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
